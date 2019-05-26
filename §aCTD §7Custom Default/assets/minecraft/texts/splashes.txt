@@ -4,7 +4,7 @@ Finally Beta!
 Finally Alpha!
 Crossing The Desert!
 Give Him Food, Water, and a Funny Hat!
-Driving Forward 10 Feet Has Never Been More Complicated!
+Driving 10 Feet Has Never Been More Complicated!
 Snipercalifragilisticexpialidocious!
 §4Kidneyshot.exe
 §a>I just mined 69 cobblestone!
@@ -21,3 +21,11 @@ Doesn't Google own Microsoft?
 Hi. I'm Don Cheadle.
 §dAll of them are Humphrey's babies.
 §5最大
+Cats on Mars!
+Mice on Venus!
+Gilbert approved.
+Who wrote these anyway?
+System.out.println("40 keks");
+Hehehe yup!
+Hehehe nope!
+Yeah I'd like to solve the puzzle...
